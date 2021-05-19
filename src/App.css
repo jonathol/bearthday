@@ -1,0 +1,90 @@
+.App {
+  text-align: center;
+}
+
+.DayForm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;  
+}
+
+.DayInput {
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.DayInputLabel {
+  font-family: 'Amatic SC', cursive;
+  font-size: 25px;
+  margin-right: 10px;
+}
+
+.DayFormSubmit {
+  margin-bottom: 20px;
+  background: white;
+  border: 1px solid black;
+  padding: 5px 10px;
+}
+
+.DayFormSubmit:hover {
+  cursor: pointer;
+}
+
+.DayImage {
+  margin-top: 10px;
+  max-width: 300px;
+  height: auto;
+}
+
+.DayCarousel {
+  position: relative;
+}
+
+html {
+  height: 100%;
+  background-color: #c1e7ff;
+  font-family: 'Amatic SC', cursive;
+}
+
+.BearthdayHeader {
+  font-family: 'Amatic SC', cursive;
+  font-size: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+
+.BearthdayHeaderImg {
+  height: 50px;
+  width: auto;
+}
+
+.react-date-picker__wrapper {
+  background: white;
+  border: 1px solid black;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+.next {
+  right: 0;
+}
+
+.prev {
+  left: 0;
+}
