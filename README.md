@@ -1,2 +1,3 @@
 # How to test
-npm start
+1. npm install
+2. npm start
