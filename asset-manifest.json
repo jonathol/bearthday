@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bearthday/static/css/main.5411f755.chunk.css",
+    "main.js": "/bearthday/static/js/main.b70b2d0f.chunk.js",
+    "main.js.map": "/bearthday/static/js/main.b70b2d0f.chunk.js.map",
+    "runtime-main.js": "/bearthday/static/js/runtime-main.a936a6ec.js",
+    "runtime-main.js.map": "/bearthday/static/js/runtime-main.a936a6ec.js.map",
+    "static/css/2.4c78f058.chunk.css": "/bearthday/static/css/2.4c78f058.chunk.css",
+    "static/js/2.985b05fb.chunk.js": "/bearthday/static/js/2.985b05fb.chunk.js",
+    "static/js/2.985b05fb.chunk.js.map": "/bearthday/static/js/2.985b05fb.chunk.js.map",
+    "static/js/3.ca991654.chunk.js": "/bearthday/static/js/3.ca991654.chunk.js",
+    "static/js/3.ca991654.chunk.js.map": "/bearthday/static/js/3.ca991654.chunk.js.map",
+    "index.html": "/bearthday/index.html",
+    "static/css/2.4c78f058.chunk.css.map": "/bearthday/static/css/2.4c78f058.chunk.css.map",
+    "static/css/main.5411f755.chunk.css.map": "/bearthday/static/css/main.5411f755.chunk.css.map",
+    "static/js/2.985b05fb.chunk.js.LICENSE.txt": "/bearthday/static/js/2.985b05fb.chunk.js.LICENSE.txt",
+    "static/media/banner.57fb3841.png": "/bearthday/static/media/banner.57fb3841.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a936a6ec.js",
+    "static/css/2.4c78f058.chunk.css",
+    "static/js/2.985b05fb.chunk.js",
+    "static/css/main.5411f755.chunk.css",
+    "static/js/main.b70b2d0f.chunk.js"
+  ]
+}
